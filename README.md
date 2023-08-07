@@ -7,4 +7,4 @@ pip install -r requirement.txt
 运行Python文件：
 python read_cilpboard.py
 
-**小程序：雅思听力**免费资源
+**小程序：雅思听力** 免费资源
